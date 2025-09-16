@@ -1,5 +1,5 @@
 # Mouse Jiggler
-This is an AutoHotkey (.ahk) file designed to move move your mouse to prevent screen timeout.
+This is an AutoHotkey (.ahk) file designed to move your mouse to prevent screen timeout.
 
 ## Dependencies
 Requires AutoHotkey to be installed, which can be done at https://www.autohotkey.com/
